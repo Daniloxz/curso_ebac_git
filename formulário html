@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>formulário de cadastro</h1>
-    <forms>
+    <form>
         <label for="text">Seu nome </label>
         <input id="text" type="text"/>
         <br/>
@@ -19,6 +19,6 @@
         <button type="submit">
             Enviar
         </button>
-    </forms>
+    </form>
     </body>
 </html>
